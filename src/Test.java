@@ -48,11 +48,11 @@ public class Test {
             countFor500++;
         }
 
-        int avarageDay = (countFor500+countFor250)/2;
+        int averageDay = (countFor500+countFor250)/2;
 
         System.out.println("Скольк нужно дней при похудении на 250 грамм в день: "+countFor250);
         System.out.println("Скольк нужно дней при похудении на 500 грамм в день: "+countFor500);
-        System.out.println("Скольк нужно дней в среднем: "+avarageDay);
+        System.out.println("Скольк нужно дней в среднем: "+averageDay);
 
         //task5
         int percent = 10;
